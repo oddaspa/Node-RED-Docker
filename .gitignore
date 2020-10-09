@@ -70,3 +70,6 @@ typings/
 package-lock.json
 node_modules
 *.backup
+
+# env variables
+env.list
